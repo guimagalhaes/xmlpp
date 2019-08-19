@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<story>
+  <storyinfo>
+    <site url="http://www.google.com">Web Search System</site>
+    <site>Inf</site>
+    <other>Computer Science</other>
+  </storyinfo>
+  <storycast people="1">
+    <person attr="value">Guilherme Magalhaes</person>
+  </storycast>
+</story>
